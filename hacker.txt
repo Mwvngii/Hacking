@@ -1,5 +1,2 @@
-This is my hacking file.
-It contains a lot of information.
-1
-2
-3
+Hello Moringa.
+I am excited to be part of this course!
